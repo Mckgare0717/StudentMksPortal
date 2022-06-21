@@ -1,0 +1,2 @@
+{'name': 'mark', 'maths_avg': 42, 'eng_Avg': 64.0, 'sci_Avg': 25.0, 'average Marks': 43.67, 'Grade': 'Pass'}
+{'name': 'rgf', 'maths_avg': 25, 'eng_Avg': 21.0, 'sci_Avg': 54.0, 'average Marks': 33.33, 'Grade': 'Fail'}

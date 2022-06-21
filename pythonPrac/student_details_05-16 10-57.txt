@@ -1,0 +1,15 @@
+{'name': 'vewvv', 'maths_avg': 75, 'eng_Avg': 95.0, 'sci_Avg': 64.0, 'average Marks': 78.0, 'Grade': 'Merit'}
+{'name': 'wfqweff', 'maths_avg': 75, 'eng_Avg': 94.0, 'sci_Avg': 25.0, 'average Marks': 64.66666666666667, 'Grade': 'Merit'}
+{'name': 'ewqfe', 'maths_avg': 75, 'eng_Avg': 25.0, 'sci_Avg': 64.0, 'average Marks': 54.666666666666664, 'Grade': 'Pass'}
+{'name': 'evev', 'maths_avg': 75, 'eng_Avg': 25.0, 'sci_Avg': 64.0, 'average Marks': 54.666666666666664, 'Grade': 'Pass'}
+{'name': 'dewdw', 'maths_avg': 75, 'eng_Avg': 25.0, 'sci_Avg': 63.0, 'average Marks': 54.333333333333336, 'Grade': 'Pass'}
+{'name': 'vervwv', 'maths_avg': 75, 'eng_Avg': 65.0, 'sci_Avg': 15.0, 'average Marks': 51.666666666666664, 'Grade': 'Pass'}
+{'name': 'wefwef', 'maths_avg': 45, 'eng_Avg': 15.0, 'sci_Avg': 75.0, 'average Marks': 45.0, 'Grade': 'Pass'}
+{'name': 'egtwh', 'maths_avg': 45, 'eng_Avg': 25.0, 'sci_Avg': 64.0, 'average Marks': 44.666666666666664, 'Grade': 'Pass'}
+{'name': 'bwerbh', 'maths_avg': 45, 'eng_Avg': 64.0, 'sci_Avg': 25.0, 'average Marks': 44.666666666666664, 'Grade': 'Pass'}
+{'name': 'efwef', 'maths_avg': 75, 'eng_Avg': 34.0, 'sci_Avg': 15.0, 'average Marks': 41.333333333333336, 'Grade': 'Pass'}
+{'name': 'vewvbvbe', 'maths_avg': 54, 'eng_Avg': 25.0, 'sci_Avg': 45.0, 'average Marks': 41.333333333333336, 'Grade': 'Pass'}
+{'name': 'gegewg', 'maths_avg': 75, 'eng_Avg': 25.0, 'sci_Avg': 16.0, 'average Marks': 38.666666666666664, 'Grade': 'Fail'}
+{'name': 'revberg', 'maths_avg': 45, 'eng_Avg': 25.0, 'sci_Avg': 45.0, 'average Marks': 38.333333333333336, 'Grade': 'Fail'}
+{'name': 'wedfwe', 'maths_avg': 45, 'eng_Avg': 25.0, 'sci_Avg': 15.0, 'average Marks': 28.333333333333332, 'Grade': 'Fail'}
+{'name': 'vbwer', 'maths_avg': 45, 'eng_Avg': 25.0, 'sci_Avg': 15.0, 'average Marks': 28.333333333333332, 'Grade': 'Fail'}

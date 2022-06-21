@@ -1,0 +1,3 @@
+{'name': 'mark', 'maths_avg': 100, 'eng_Avg': 93.0, 'sci_Avg': 95.0, 'average Marks': 96.0, 'Grade': 'Distinction'}
+{'name': 'fodo', 'maths_avg': 85, 'eng_Avg': 45.0, 'sci_Avg': 15.0, 'average Marks': 48.33, 'Grade': 'Pass'}
+{'name': 'gand', 'maths_avg': 2, 'eng_Avg': 3.0, 'sci_Avg': 6.0, 'average Marks': 3.67, 'Grade': 'Fail'}

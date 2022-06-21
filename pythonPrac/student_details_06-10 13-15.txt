@@ -1,0 +1,5 @@
+{'name': 'Bob', 'maths_avg': 999, 'eng_Avg': 999.0, 'sci_Avg': 999.0, 'average Marks': 999.0, 'Grade': 'Distinction'}
+{'name': 'collins', 'maths_avg': 123, 'eng_Avg': 24.0, 'sci_Avg': 234.0, 'average Marks': 127.0, 'Grade': 'Distinction'}
+{'name': 'lucksham', 'maths_avg': 5, 'eng_Avg': 75.0, 'sci_Avg': 75.0, 'average Marks': 51.67, 'Grade': 'Pass'}
+{'name': 'Jeff', 'maths_avg': 75, 'eng_Avg': 25.0, 'sci_Avg': 50.0, 'average Marks': 50.0, 'Grade': 'Pass'}
+{'name': 'JAMES', 'maths_avg': 0, 'eng_Avg': 0.0, 'sci_Avg': 0.0, 'average Marks': 0.0, 'Grade': 'Fail'}

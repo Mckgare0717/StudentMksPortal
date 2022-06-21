@@ -1,0 +1,3 @@
+{'name': 'fodo', 'maths_avg': 78, 'eng_Avg': 96.0, 'sci_Avg': 32.0, 'average Marks': 68.66666666666667, 'Grade': 'Merit'}
+{'name': 'def', 'maths_avg': 79, 'eng_Avg': 64.0, 'sci_Avg': 52.0, 'average Marks': 65.0, 'Grade': 'Merit'}
+{'name': 'mark', 'maths_avg': 45, 'eng_Avg': 12.0, 'sci_Avg': 32.0, 'average Marks': 29.666666666666668, 'Grade': 'Fail'}
